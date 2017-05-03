@@ -1,6 +1,6 @@
-#include "include\gf_graph.h"
-#include "include\graph.h"
-#include "include\tuple.h"
+#include "gf_graph.h"
+#include "graph.h"
+#include "tuple.h"
 #include <string.h>
 #include <stdlib.h>
 gf_graph_t convert_from(graph_t g) {
